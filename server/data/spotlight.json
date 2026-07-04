@@ -1,0 +1,20 @@
+{
+  "photo": {
+    "image": "https://picsum.photos/seed/photojune/1000/700",
+    "title": "\"Steps, 5:47pm\"",
+    "caption": "shot on the library staircase, one take, no edits.",
+    "handle": "ritika.frames"
+  },
+  "photographer": {
+    "name": "Ritika Sengar",
+    "avatar": "https://picsum.photos/seed/photographerjune/300/300",
+    "role": "shoots streets, sometimes strangers, always in manual.",
+    "handle": "ritika.frames",
+    "notes": [
+      "carries: canon AE-1, three rolls, zero patience",
+      "this month: 14 frames published, 2 lectures skipped",
+      "famous for: printing at 2am before every exhibit"
+    ]
+  },
+  "updatedAt": "2026-07-04T21:21:01.426Z"
+}
